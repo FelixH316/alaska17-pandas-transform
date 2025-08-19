@@ -1,3 +1,9 @@
+Original repository
+    https://github.com/alura-es-cursos/2071-Pandas_Transformacion_Manipulacion/tree/main
+
 Base de datos aula 1
     https://github.com/alura-es-cursos/2071-Pandas_Transformacion_Manipulacion/raw/2071-aula1/2071-aula1.zip
+
+Proyecto inicial aula 2
+    https://github.com/alura-es-cursos/2071-Pandas_Transformacion_Manipulacion/raw/2071-aula2/2071-aula2.zip
 
